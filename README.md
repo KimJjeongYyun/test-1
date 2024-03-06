@@ -78,3 +78,6 @@
 ![이미지 연습](https://previews.123rf.com/images/ewastudio/ewastudio1203/ewastudio120300335/12980506-%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4-%EB%B6%84%ED%99%8D%EC%83%89-%EB%B2%9A%EA%BD%83-%ED%94%BC%EB%8A%94-%EC%82%AC%EC%BF%A0%EB%9D%BC-%EA%BD%83.jpg)
 
 마크다운에서 이미지를 삽입할 때는 맨 앞에 !를 붙이고 []안에 대체 텍스트를 저장하고 이미지 파일 경로를 지정한다. 그런데 **이미지 파일이 경로를 가지려면 웹에 올라와 있는 사진이여야한다** 
+
+웹에 없는 사진 올릴때는 : 깃허브에 사진 올리기 -> README파일에 추가하기
+![고양님](./images/고양이1.jpg)
